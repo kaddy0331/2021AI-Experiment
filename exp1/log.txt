@@ -1,0 +1,6 @@
+最短路径：Arad -> Sibiu -> Rimnicuvilcea -> Pitesti -> Bucharest
+总路程：418
+最短路径：Fagaras -> Sibiu -> Rimnicuvilcea -> Craiova -> Dobreta
+总路程：445
+最短路径：Mehadia -> Dobreta -> Craiova -> Rimnicuvilcea -> Sibiu
+总路程：421
